@@ -4,8 +4,8 @@ export const projects = [
     description: "A full-stack Mehndi design platform with a React frontend and Node.js backend—includes UI for browsing/uploading designs and an API for managing them.",
       image: '/images/1.png',
       tags: ['React', 'Node.js', 'Express', 'MongoDB'],
-    source: 'https://github.com/arb1465/preyasi-mehndi-frontend',
-    visit: 'https://preyasi-mehndi.vercel.app',
+    visit: 'https://github.com/arb1465/preyasi-mehndi-frontend',
+    source: 'https://preyasi-mehndi.vercel.app',
     id: 0,
   },
   {
