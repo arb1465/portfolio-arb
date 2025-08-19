@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'KOE – The Kafe',
+    description: 'A responsive, full-stack cafe website crafted during Google Winter of Code ’24, highlighting coffee roasting, live-streaming, menus, and a unique UI using HTML, JavaScript, EJS, and Tailwind.',
+    image: '/images/4.png',
+    tags: ['HTML', 'JavaScript', 'Tailwind CSS', 'EJS'],
+    visit: 'https://github.com/arb1465/KOE-The-Kafe-GWOC-24',
+    source: 'https://koe-the-cafe-winter-wiz.onrender.com/',
+    id: 2,
+  },
+  {
     title: 'TCP Search Engine',
     description: 'A Python-based TCP client-server search engine exploring core computer-networking concepts through a custom search protocol.', 
     image: '/images/2.png',
@@ -25,15 +34,6 @@ export const projects = [
     source: 'https://github.com/arb1465/Image-based-attendance-system',
     visit: 'https://github.com/arb1465/Image-based-attendance-system',
     id: 4,
-  },
-  {
-    title: 'KOE – The Kafe',
-    description: 'A responsive, full-stack cafe website crafted during Google Winter of Code ’24, highlighting coffee roasting, live-streaming, menus, and a unique UI using HTML, JavaScript, EJS, and Tailwind.',
-    image: '/images/4.png',
-    tags: ['HTML', 'JavaScript', 'Tailwind CSS', 'EJS'],
-    visit: 'https://github.com/arb1465/KOE-The-Kafe-GWOC-24',
-    source: 'https://koe-the-cafe-winter-wiz.onrender.com/',
-    id: 2,
   },
 ];
 
