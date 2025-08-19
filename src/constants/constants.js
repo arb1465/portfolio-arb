@@ -15,7 +15,7 @@ export const projects = [
     tags: ['Python', 'Networking', 'TCP'],
     source: 'https://github.com/arb1465/TCP-Search-Engine',
     visit: 'https://github.com/arb1465/TCP-Search-Engine',
-    id: 1,
+    id: 3,
   },
   {
     title: 'Image based Attendance System',
@@ -31,9 +31,9 @@ export const projects = [
     description: 'A responsive, full-stack cafe website crafted during Google Winter of Code ’24, highlighting coffee roasting, live-streaming, menus, and a unique UI using HTML, JavaScript, EJS, and Tailwind.',
     image: '/images/4.jpg',
     tags: ['HTML', 'JavaScript', 'Tailwind CSS', 'EJS'],
-    source: 'https://github.com/arb1465/KOE-The-Kafe-GWOC-24',
-    visit: 'https://koe-the-cafe-winter-wiz.onrender.com/',
-    id: 3,
+    visit: 'https://github.com/arb1465/KOE-The-Kafe-GWOC-24',
+    source: 'https://koe-the-cafe-winter-wiz.onrender.com/',
+    id: 2,
   },
 ];
 
