@@ -6,7 +6,7 @@ export const LeftSection = styled.div`
     width: 100%;
     display: flex;
     flex-direction: column;
-    padding-right: 2rem;
+    padding-right: 1.3rem;
 
     margin: 0 auto;
   }
