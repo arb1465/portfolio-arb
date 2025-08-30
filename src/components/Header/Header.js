@@ -38,14 +38,17 @@ const Header = () =>  (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/arb1465">
         <AiFillGithub size = "3rem"/>
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="https://www.linkedin.com/in/arb1465">
         <AiFillLinkedin size = "3rem"/>
       </SocialIcons>
-      <SocialIcons href="https://instagram.com">
+      <SocialIcons href="https://instagram.com/arb_1465">
         <AiFillInstagram size = "3rem"/>
+      </SocialIcons>
+      <SocialIcons href="https://leetcode.com/u/arb1465">
+        <img src="/images/leetcode.png" alt="LeetCode" width="38" height="38" />
       </SocialIcons>
     </Div3>
   </Container>
